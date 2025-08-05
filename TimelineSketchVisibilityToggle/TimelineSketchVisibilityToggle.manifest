@@ -1,0 +1,19 @@
+{
+    "manifestVersion": 1,
+    "id": "TimelineSketchVisibilityToggle",
+    "name": "Timeline Sketch Visibility Toggle",
+    "description": "Toggle visibility of selected sketch in timeline or viewport",
+
+    "version": "1.0.0",
+    "iconFilename": "TimelineSketchVisibilityToggle_icon.svg",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "author": "KieranReck",
+    "description": {
+        "": "Toggle visibility of selected sketch in timeline or viewport"
+    },
+    "autodeskProduct": "Fusion360",
+    "supportedLanguages": [
+        "en"
+    ]
+}
