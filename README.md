@@ -1,5 +1,5 @@
 # Timeline and Viewport Sketch Visibility Toggle for Autodesk Fusion
-A vibe coded Autodesk Fusion / Fusion360 add in which adds basic sketch visibility functionality missing in base fusion. 
+A vibe coded Autodesk Fusion / Fusion360 add in which allows you to toggle sketch visibility from a timeline or viewport selection
 
 <img src="./Screenshots/TimelineVisibility128.svg" alt="Icon" height="200">
 
