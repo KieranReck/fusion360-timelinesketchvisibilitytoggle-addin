@@ -3,10 +3,8 @@ A vibe coded Autodesk Fusion / Fusion360 add in which adds basic sketch visibili
 
 <img src="./Screenshots/TimelineVisibility128.svg" alt="Icon" height="200">
 
-<video width="100%" controls autoplay loop muted>
-    <source src="./Screenshots/DemoVideo.webm" type="video/webm">
-    Video Support Failed.
-</video>
+[DemoVideo.webm](https://github.com/user-attachments/assets/8b8db5a6-ace7-4474-909a-f767dca2c53a)
+
 
 ## Overview
 Gone are the days of scrolling through long lists of sketches in the browser folder to toggle visibility, this add-in provides two new functions:
@@ -18,6 +16,7 @@ Gone are the days of scrolling through long lists of sketches in the browser fol
     - This tool can also toggle sketches from the browser, replicating the functionality of fusion's built in visibility toggle
 
 All functions are achieved through the same action, for which a button ( <img src="./Screenshots/TimelineVisibility128.svg" alt="button" width="30"> ) is added to the Navigation Toolbar at the bottom of the viewport window:
+
 ![Navigation Bar Button](./Screenshots/NavbarButton.png) 
 
 A keyboard Shortcut can also be added, albeit through a slightly different method to the usual process (method detailed under 'Usage') 
@@ -30,6 +29,7 @@ A keyboard Shortcut can also be added, albeit through a slightly different metho
    - **Mac**: `~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/AddIns/`
 2. In Fusion, go to **Utilities > Scripts and Add-Ins**
 3. Find "TimelineSketchVisibilityToggle" and click **"Run"**
+4. (optional) in Utilities > Scripts and Add-Ins mark the add in to **Run On Startup**
 
 
 ## Usage
